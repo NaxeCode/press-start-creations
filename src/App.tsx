@@ -66,7 +66,7 @@ function App() {
                             <div className="absolute inset-0 bg-green-500 bg-opacity-10 z-0 mystery-box-glow"></div>
                             <img
                                 className="h-full w-full object-cover relative z-10"
-                                src="src\assets\newbox.jpg"
+                                src="newbox.jpg"
                                 alt="COD Mystery Box"
                                 onError={(e) => {
                                     e.currentTarget.src =
